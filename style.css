@@ -1,0 +1,102 @@
+body {
+    font-family: 'Rubik';
+}
+.nav-bar a {
+    text-decoration: none;
+    margin: 12px;
+    background-color: white;
+    border:3px solid black;
+    border-radius: 12px;
+    padding: 6px;
+    color: black;
+}
+.nav-bar a:hover {
+    text-decoration: none;
+    margin: 12px;
+    background-color: gainsboro;
+    border:3px solid black;
+    border-radius: 12px;
+    padding: 6px;
+    transition: .2s;
+}
+.nav-bar {
+    background-color: #484848;
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    top: -2px;
+    margin: -8px;
+    
+}
+.inicio {
+    padding-top: 190px;
+    padding-bottom: 190px;
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+}
+[id="inicio"] {
+    color: white;
+    font-size: 69px
+}
+.imshiro {
+    color: white;
+}
+.no-bar {
+    padding-top: 10px;
+    margin: -20px
+    top: -2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
